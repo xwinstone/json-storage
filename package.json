@@ -1,0 +1,24 @@
+{
+  "name": "json-storage",
+  "version": "1.0.0",
+  "description": "to storage json data use localStorage or sessionStorage",
+  "main": "src/index.js",
+  "types": "src/index.ts",
+  "files": ["src"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwinstone/json-storage.git"
+  },
+  "keywords": [
+    "json-storage"
+  ],
+  "author": "xwinstone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xwinstone/json-storage/issues"
+  },
+  "homepage": "https://github.com/xwinstone/json-storage#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
