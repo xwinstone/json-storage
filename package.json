@@ -1,6 +1,6 @@
 {
   "name": "x-json-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "to storage json data use localStorage or sessionStorage",
   "main": "src/index.js",
   "types": "src/index.ts",
