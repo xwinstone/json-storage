@@ -1,5 +1,5 @@
 {
-  "name": "json-storage",
+  "name": "x-json-storage",
   "version": "1.0.0",
   "description": "to storage json data use localStorage or sessionStorage",
   "main": "src/index.js",
