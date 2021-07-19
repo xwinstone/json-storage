@@ -4,7 +4,7 @@ storage json data using localStorage or sessionStorage for daily usage.
 ## Usage
 ### import from npm
 ```shell script
-npm i json-storage
+npm i x-json-storage
 ```
 
 ### example
@@ -12,7 +12,7 @@ npm i json-storage
 ```js
 // use localStorage
 
-import jsonStorage from "json-storage";
+import jsonStorage from "x-json-storage";
 
 const data = {
   name: 'xwinstone'
@@ -27,7 +27,7 @@ jsonStorage.remove('info')
 
 ```js
 // to use sessionStorage, please set the last parameter to true
-import jsonStorage from "json-storage";
+import jsonStorage from "x-json-storage";
 
 const data = {
   name: 'xwinstone'
